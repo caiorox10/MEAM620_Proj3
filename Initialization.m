@@ -7,8 +7,6 @@
 %%Robots.
 
 
-
-
 %% 
 %Variable Definitions
 Num_Dim = 2;
